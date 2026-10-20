@@ -117,7 +117,7 @@ Jina Reader and Reddit are blocked (403) in this environment. Pages were fetched
 5. **A backlit-onyx answer** (porcelain is opaque).
 6. **Grout colour, a streak-free cleaning method, scratch prevention** and pre-grout sealing advice.
 7. **Matt continuation for shower floors** (Alba Onyx White matt) with an honest "confirm the slip rating" caveat.
-8. Readability: **Flesch 79.5 / grade 5.5**, against a competitor average of grade 11.7. The article runs to about 2,550 words, against 760–2,040 for competitors including navigation.
+8. Readability: **Flesch 79.2 / grade 5.6**, against a competitor average of grade 11.7. The article runs to about 2,500 words, against 760–2,040 for competitors including navigation.
 
 ---
 
@@ -173,7 +173,7 @@ All built from Tiles Paradise product images, except the diagram, which was draw
 - [x] **One entity, one URL:** a new informational node; the product page keeps transactional intent; no duplicate post.
 - [x] **Entity defined in sentence 1** (name, format, finish, look, price), plus the spec card within the first screen and the first 14KB.
 - [x] **Question H2/H3s answered in sentence 1**, with no image between a question and its answer.
-- [x] **One fact per sentence:** average 13.4 words; Flesch 79.5; grade 5.5.
+- [x] **One fact per sentence:** average 13.5 words; Flesch 79.2; grade 5.6.
 - [x] **Structured + unstructured pairs:** 4 tables with `<caption>` and `<th scope>`, and lists for steps.
 - [x] **Consistent first-party numbers:** price, thickness, box, job lot and delivery figures all taken from live listings on 20 Oct 2026.
 - [x] **Disambiguation:** product context words sit next to the name (homonym: Endorfy mouse pad).
